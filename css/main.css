@@ -1,6 +1,16 @@
+body {
+    font-family: "Amatic SC";
+}
+
 .main-title {
-    font-family: Amatic SC;
     font-weight: 700;
     font-size: 5em;
     text-align: center;
+    color: #FFD97A;
+}
+
+.main-card {
+    background-color: #5DBAFF;
+    border-radius: .2em;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }

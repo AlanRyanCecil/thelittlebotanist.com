@@ -1,1 +1,1 @@
-angular.module('ThelittlebotanistApp', ['ui.router']);
+angular.module('ThelittlebotanistApp', ['ui.router', 'ngMaterial']);
