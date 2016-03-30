@@ -4,7 +4,7 @@ angular.module('ThelittlebotanistApp').config(['$stateProvider', '$urlRouterProv
     $stateProvider.state('home', {
         url: '/home',
         views: {
-            'contents': {
+            'content': {
                 controller: 'HomeController',
                 templateUrl: 'views/home.html'
             }
