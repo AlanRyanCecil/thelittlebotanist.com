@@ -1,12 +1,17 @@
 body {
+    background-color: #7D4720;
     font-family: "Amatic SC";
+}
+
+md-content {
+    background-color: #7D4720;
 }
 
 .main-title {
     font-weight: 700;
     font-size: 5em;
     text-align: center;
-    color: #FFD97A;
+    color: #FECF63;
 }
 
 .main-card {
