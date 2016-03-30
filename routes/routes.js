@@ -2,7 +2,7 @@ angular.module('ThelittlebotanistApp').config(['$stateProvider', '$urlRouterProv
     $urlRouterProvider.otherwise('/home');
 
     $stateProvider.state('home', {
-        url: '/home',
+        url: '',
         views: {
             'content': {
                 controller: 'HomeController',
