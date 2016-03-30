@@ -1,5 +1,5 @@
 angular.module('ThelittlebotanistApp')
 
     .controller('HomeController', ['$scope', function ($scope) {
-        $scope.greeting = "The Little Botanist.";
+        $scope.greeting = "Welcome to The Little Botanist.";
     }])
